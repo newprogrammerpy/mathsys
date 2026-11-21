@@ -1,0 +1,1 @@
+python.exe -m pip install --upgrade pip certifi PyInstaller --break-system-package

@@ -1,0 +1,1 @@
+python3 -m pip install --upgrade pip certifi PyInstaller --break-system-package
