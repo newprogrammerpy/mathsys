@@ -1,0 +1,15 @@
+các chế độ:
+a == xem các số nguyên tố từ 2 đến n - 1
+b == kiểm tra số đó có phải số nguyên tố không
+c == xem n có bao nhiêu ước số
+d == xem a có chia hết cho b không
+e == máy tính cơ bản
+f == xem số nguyên tố lớn nhất và nhỏ nhất có n chữ số
+help == trợ giúp
+file == xem lịch sử dùng
+cls == xóa hết văn bản của cửa sổ
+del == xóa lịch sử file
+ver == vesion math system
+app == đóng gói file
+quit == thoát ra
+exit == thoát ra
